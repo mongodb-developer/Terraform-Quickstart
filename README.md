@@ -26,3 +26,5 @@ terraform-mongodb-cluster/
 - The `aws` directory contains the Terraform configuration files for deploying a MongoDB cluster on AWS.
 - The `azure` directory contains the Terraform configuration files for deploying a MongoDB cluster on Azure.
 - The `gcp` directory contains the Terraform configuration files for deploying a MongoDB cluster on GCP.
+
+[Provider Documentation](https://registry.terraform.io/providers/mongodb/mongodbatlas/latest)
